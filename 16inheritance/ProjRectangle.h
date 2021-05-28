@@ -1,4 +1,4 @@
-// This is the header file ProjRectangle.h
+// This is the interface file ProjRectangle.h
 // It is the header for the Rectangle class
 // which derives from the Shape class.
 #ifndef PROJRECTANGLE_H
